@@ -40,6 +40,7 @@ fn randomized_test(seed: u64, max_shards: usize) {
 }
 
 /// A test that runs forever and tries to find a minimal randomized test that fails.
+#[ignore]
 #[test]
 fn find_minimal_counterexample() {
     let mut max_shards = 2;
