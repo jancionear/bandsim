@@ -1,2 +1,3 @@
 # bandsim
-Bandwidth scheduler simulator 
+This repository contains a simulator for the bandwidth scheduling algorithm.
+
